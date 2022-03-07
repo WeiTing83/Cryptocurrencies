@@ -9,6 +9,6 @@ cryptocurrency market more easily.
 ##### Using four clusters and three principal components in PCA
 ![image](https://github.com/WeiTing83/Cryptocurrencies/blob/main/resources/image.png)
 ##### Tradable cryptocurrencies table
-![Table]()
+![Table](https://github.com/WeiTing83/Cryptocurrencies/blob/main/resources/Table.png)
 ##### Scatter plot : TotalCoinsMined vs.TotalCoinSupply
-![2D]()
+![2D](https://github.com/WeiTing83/Cryptocurrencies/blob/main/resources/2D.png)
